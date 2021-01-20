@@ -37,7 +37,7 @@ grails.plugin.springsecurity.filterChain.chainMap = [
 grails.plugin.springsecurity.logout.postOnly = false
 grails.plugin.springsecurity.successHandler.defaultTargetUrl = '/dashboard'
 
-authy.accountSID = "YOUR_SID"
-authy.authToken = "YOUR_AUTH_TOKEN"
-authy.fromPhoneNumber = "YOUR_PHONE_NUMBER"
-authy.apiKey = "YOUR_KEY"
+authy.accountSID = "ACc18d5eee49765bd3f7ebba5b11685e16"
+authy.authToken = "92c8eaadd6d154a5d8a47467f0681df9"
+authy.fromPhoneNumber = "+12562030611"
+authy.apiKey = "S72uk7isD6mwmvJ3V7RTmuW0N36Bxjv7"

@@ -31,7 +31,7 @@ class RegistrationService {
 
             return Boolean.TRUE
         } else {
-            log.error(authyUser.getStatus())
+            log.error(String.valueOf(authyUser.getStatus()))
             log.error(authyUser.getError())
             return Boolean.FALSE
         }
